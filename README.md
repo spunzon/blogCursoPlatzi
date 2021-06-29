@@ -1,2 +1,2 @@
-# blogCursoPlatzi
-Un blog increíble para el curso de git y GitHub de Platzi
+# hyperblog
+Esto es un proyecto de un curso de Platzi para aprender git y GitHub.
